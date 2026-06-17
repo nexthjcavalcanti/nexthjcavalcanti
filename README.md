@@ -1,16 +1,21 @@
-## Hi there 👋
+# Henrique Cavalcanti
 
-<!--
-**nexthjcavalcanti/nexthjcavalcanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend em formação, com foco em automação, operações digitais e desenvolvimento web.
 
-Here are some ideas to get you started:
+Tenho experiência prática com marketplaces, e-commerce, criação de produtos digitais e resolução de problemas de negócio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou estudando:
+
+* Git e GitHub
+* Desenvolvimento Web
+* Backend
+* Automação
+* APIs
+* Cloud
+
+## Projetos
+
+* Site institucional responsivo — RH Pré-Moldados
+* Portfólio digital responsivo — Van Fonseca
+
+Meu objetivo é construir soluções simples, úteis e aplicadas a problemas reais.
