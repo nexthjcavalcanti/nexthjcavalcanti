@@ -1,21 +1,24 @@
 # Henrique Cavalcanti
 
-Backend em formação, com foco em automação, operações digitais e desenvolvimento web.
+Cybersecurity em formação, com foco em Cloud Security, automação, Linux, redes e segurança da informação.
 
-Tenho experiência prática com marketplaces, e-commerce, criação de produtos digitais e resolução de problemas de negócio.
+Tenho experiência prática com marketplaces, operações digitais, e-commerce e resolução de problemas reais de negócio.
 
 Atualmente estou estudando:
 
+* Fundamentos de cybersecurity
+* Redes
+* Linux
 * Git e GitHub
-* Desenvolvimento Web
-* Backend
-* Automação
-* APIs
-* Cloud
+* Python para automação
+* Cloud Security
+* Segurança da informação
 
 ## Projetos
 
+* Laboratório de cybersecurity — em desenvolvimento
+* Automação de análise de segurança — em desenvolvimento
 * Site institucional responsivo — RH Pré-Moldados
 * Portfólio digital responsivo — Van Fonseca
 
-Meu objetivo é construir soluções simples, úteis e aplicadas a problemas reais.
+Meu objetivo é construir uma carreira sólida em segurança, unindo tecnologia, automação e visão prática de negócio.
